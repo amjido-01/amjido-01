@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abubakar Muhammad Ala</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="center" alt="coding" width="100%" src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat"
-     
+<img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/00/56/47/32/360_F_56473216_hxlLRvvEzKcpanDmiWG4xS8RZIt4veFS.jpg"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="amjido-01" /> </p>
 
 - 🔭 I’m currently working on [KustBooklet](https://kust-g12455pbb-amjido-01.vercel.app/)
