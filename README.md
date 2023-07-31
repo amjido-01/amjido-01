@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abubakar Muhammad Ala</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="center" alt="coding" hight="200" width="100%" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1685662114~exp=1685662714~hmac=cd20cdb489d51b339e0fa488533eadf8cc5cefdefed600d8ffab793a878d0396"
+<img align="center" alt="coding" hight="200" width="100%" src="https://photos.app.google/AN4TABfh8MhtKFuC6"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="amjido-01" /> </p>
 
