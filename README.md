@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://alerntech.hashnode.dev/](https://alerntech.hashnode.dev/)
 
-- 💬 Ask me about **Javascript, Typescript, react, tailwindcss, bootsrap, CSS3**
+- 💬 Ask me about **Html5, Css3, Javascript, Typescript, react, tailwindcss, bootsrap**
 
 - 📫 How to reach me **youndsadeeq10@gmail.com**
 
-- ⚡ Fun fact **I love to have Fun.**
+- ⚡ Fun fact **I love solving leetcode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
