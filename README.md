@@ -7,7 +7,7 @@
 - 🔭 I’m
 - currently working on [KustBooklet](https://kust-g12455pbb-amjido-01.vercel.app/) and [Bookbay](https://bookbay-app.vercel.app/)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 📝 I regularly write articles on [https://alerntech.hashnode.dev/](https://alerntech.hashnode.dev/)
 
