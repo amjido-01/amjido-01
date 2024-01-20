@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://alerntech.hashnode.dev/](https://alerntech.hashnode.dev/)
 
-- 💬 Ask me about **react, tailwindcss, javascript, bootsrap, CSS3**
+- 💬 Ask me about **Javascript, Typescript, react, tailwindcss, bootsrap, CSS3**
 
 - 📫 How to reach me **youndsadeeq10@gmail.com**
 
