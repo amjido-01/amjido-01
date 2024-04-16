@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **youndsadeeq10@gmail.com**
 
-- ⚡ Fun fact **I love solving leetcode**
+- ⚡ Fun fact **I love my Mom <span style="font-size:500%;color:red;">&hearts;</span>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
