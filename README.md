@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="amjido-01" /> </p>
 
 - 🔭 I’m
-- currently working on [Notify Ai](https://notify-ai.vercel.app/) and [Echopay](https://echopay-gray.vercel.app/)
+- currently working on [Notify Ai](https://notify-ai.vercel.app/) and [Echopay](https://echopay-gray.vercel.app/) and [Scheduler](https://socialschedule-two.vercel.app/)
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
