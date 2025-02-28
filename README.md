@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://alerntech.hashnode.dev/](https://alerntech.hashnode.dev/)
 
-- 💬 Ask me about **Html5, Css3, Bootstrap, tailwindcss, Javascript, Typescript, react Nextjs, Vue Nuxtjs*
+- 💬 Ask me about **Html5, Css3, Bootstrap, tailwindcss, Javascript, Typescript, Nodejs, Expressjs, react Nextjs, Vue Nuxtjs*
 
 - 📫 How to reach me **youndsadeeq10@gmail.com**
 
