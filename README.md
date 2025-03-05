@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [https://alerntech.hashnode.dev/](https://alerntech.hashnode.dev/)
 
-- 💬 Ask me about **Html5, Css3, Bootstrap, tailwindcss, Javascript, Typescript, Nodejs, Expressjs, react Nextjs, Vue Nuxtjs*
+- 💬 Ask me about **HTML, CSS, Bootstrap, tailwindcss, Javascript, Typescript, Nodejs, Expressjs, react Nextjs, Vue Nuxtjs*
 
 - 📫 How to reach me **youndsadeeq10@gmail.com**
 
-- ⚡ Fun fact **I love my Mom <span style="font-size:500%;color:red;">&hearts;</span>**
+- ⚡ Fun fact **I love my Mom and she is my Everything <span style="font-size:500%;color:red;">&hearts;</span>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
