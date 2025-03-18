@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abubakar Muhammad Ala</h1>
+<h1 align="center">Hi I'm Abubakar Muhammad Ala</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="amjido-01" /> </p>
 
