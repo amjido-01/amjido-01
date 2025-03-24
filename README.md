@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Abubakar Muhammad Ala</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="amjido-01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjido-01&label=Profile%20views&color=0e75b6&style=flat" alt="amjido" /> </p>
 
 - 🔭 I’m
 - currently working on [Notify Ai](https://notify-ai.vercel.app/) and [Echopay](https://echopay-gray.vercel.app/) and [Scheduler](https://socialschedule-two.vercel.app/) and [Fintrack](https://fintrack-v2.vercel.app/)
