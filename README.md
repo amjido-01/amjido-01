@@ -5,7 +5,7 @@
 - 🔭 I’m
 - currently working on [Notify Ai](https://notify-ai.vercel.app/) and [Echopay](https://echopay-gray.vercel.app/) and [Scheduler](https://socialschedule-two.vercel.app/) and [Fintrack](https://fintrack-v2.vercel.app/)
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently learning **Data structures and Algorithms || React-native**
 
 - 📝 I regularly write articles on [https://alerntech.hashnode.dev/](https://alerntech.hashnode.dev/)
 
